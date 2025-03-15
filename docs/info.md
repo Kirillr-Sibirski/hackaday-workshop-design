@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project will display a digit 9 if inputs 12567 are true. It will display a dot if the set button is clicked. This project utilizes a half adder on pins OUT4 and OUT5 to prevent both of them from being on at the same time.
 
 ## How to test
 
-Explain how to use your project
+Just switch the input buttons.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7-segment display.
